@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>Volant</name>
+            <name>Ancien_Volant_2019</name>
             <creation-uuid>2e07ea7d-5393-4c53-a80f-2dce6090d6f9</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
