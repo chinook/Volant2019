@@ -13,12 +13,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/Users/Marc/Volant/Volant.X/source/StateFunctions.c</file>
-            <file>file:/Users/Marc/Volant/Volant.X/source/StateMachine_Volant.c</file>
-            <file>file:/Users/Marc/ChinookLib/ChinookLib.X/source/ChinookUart.c</file>
-            <file>file:/Users/Marc/Volant/Volant.X/source/Setup.c</file>
-            <file>file:/Users/Marc/Volant/Volant.X/headers/CONSTANTS.h</file>
-            <file>file:/Users/Marc/Volant/Volant.X/source/main.c</file>
-            <file>file:/Users/Marc/Volant/Volant.X/headers/StateFunctions.h</file>
+            <file>file:/Users/Marc/ChinookLib/ChinookLib.X/headers/ChinookI2C.h</file>
+            <file>file:/Users/Marc/ChinookLib/ChinookLib.X/headers/ChinookLib.h</file>
+            <file>file:/Users/Marc/ChinookLib/ChinookLib.X/headers/ChinookHardwareProfile.h</file>
+            <file>file:/Users/Marc/ChinookLib/ChinookLib.X/headers/ChinookPwm.h</file>
         </group>
     </open-files>
 </project-private>
