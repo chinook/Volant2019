@@ -18,7 +18,6 @@
                 <sourceRootElem>../../ChinookLib/ChinookLib.X</sourceRootElem>
                 <sourceRootElem>headers</sourceRootElem>
                 <sourceRootElem>source</sourceRootElem>
-                <sourceRootElem>../../ChinookLib/ChinookLib.X/headers</sourceRootElem>
             </sourceRootList>
             <confList>
                 <confElem>

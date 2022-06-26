@@ -14,9 +14,9 @@
         <group>
             <file>file:/Users/Marc/Volant/Volant.X/source/StateFunctions.c</file>
             <file>file:/Users/Marc/ChinookLib/ChinookLib.X/headers/ChinookI2C.h</file>
-            <file>file:/Users/Marc/ChinookLib/ChinookLib.X/headers/ChinookLib.h</file>
-            <file>file:/Users/Marc/ChinookLib/ChinookLib.X/headers/ChinookHardwareProfile.h</file>
-            <file>file:/Users/Marc/ChinookLib/ChinookLib.X/headers/ChinookPwm.h</file>
+            <file>file:/Users/Marc/Volant/Volant.X/source/Setup.c</file>
+            <file>file:/Users/Marc/ChinookLib/ChinookLib.X/source/ChinookCan.c</file>
+            <file>file:/Users/Marc/ChinookLib/ChinookLib.X/headers/ChinookTimer.h</file>
         </group>
     </open-files>
 </project-private>

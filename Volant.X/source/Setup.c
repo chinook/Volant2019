@@ -255,6 +255,7 @@ void InitCan(void)
    * */
 
    Can.Initialize(CAN1, Can1MessageFifoArea, CAN_NB_CHANNELS, CAN_BUFFER_SIZE, FALSE);
+    
    
    
    // Channel 1 - 0x23 would be the GEAR feeback value from a drive board
